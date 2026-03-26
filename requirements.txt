@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+python-dotenv==1.0.0
+sqlalchemy==2.0.25
+pydantic==2.5.2
+aiohttp==3.9.1
+pytz==2023.3
